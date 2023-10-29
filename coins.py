@@ -23,5 +23,5 @@ def get_top_coins(num):
 num_of_coins = 10  
 top_coins = get_top_coins(num_of_coins)
 
-for coin in top_coins:
-    print(f"Name: {coin['name']}, Symbol: {coin['symbol']}")
+# for coin in top_coins:
+#     print(f"Name: {coin['name']}, Symbol: {coin['symbol']}")
