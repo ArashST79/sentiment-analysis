@@ -15,16 +15,18 @@ We utilized three meaningful branches to organize development tasks. The main br
 ## Resolving Conflicts
 We encountered two conflicts (conflicts) during the project. One occurred when merging changes into the main branch, and the other happened when merging changes from the new-feature branch into the main branch. Resolving these conflicts was most successful when using Git tools and code editors. Below, you can see two different approaches to resolving conflicts:
 
-![Conflict Resolution 1](link_to_image1)
-![Conflict Resolution 2](link_to_image2)
+![Conflict Resolution 1](https://github.com/ArashST79/sentiment-analysis/blob/main/Screenshot%20(667).png
+)
+![Conflict Resolution 2](https://github.com/ArashST79/sentiment-analysis/blob/main/Screenshot%20(672).png
+)
 
 ## Branch Protection
 To enhance code quality and streamline development, we protected the main branch (main) on the GitHub repository. This means that merging another branch into the main branch requires the submission of a pull request. This step ensures that changes are thoroughly reviewed and agreed upon before merging branches. It can be seen from this photo that you are blokced to merge the changes, unless everyone admit it.
 
-![pull request]([link_to_image1](https://github.com/ArashST79/sentiment-analysis/blob/main/Screenshot%20(671).png
-))
+![pull request](https://github.com/ArashST79/sentiment-analysis/blob/main/Screenshot%20(671).png
+)
 
 ## Gitignore
 We have included a Gitignore file as requested. This file prevents unnecessary files from being committed to Git. For instance, outputs like images or files that have no need to be shared in Git, are excluded. Additionally, for our project, .ipynb_checkpoints are not uploaded to GitHub, as shown below:
 
-![Gitignore Example](link_to_image)
+![Gitignore Example](https://github.com/ArashST79/sentiment-analysis/blob/main/.gitignore)
