@@ -32,7 +32,6 @@ We have included a Gitignore file as requested. This file prevents unnecessary f
 ![Gitignore Example](https://github.com/ArashST79/sentiment-analysis/blob/main/.gitignore)
 
 ## FAQ
-Certainly, here are brief answers to your six questions:
 
 1. **What is the .git directory? What information is stored in it? How is it created?**
    - The `.git` directory is the heart of a Git repository, containing metadata and object databases.
@@ -64,5 +63,4 @@ Certainly, here are brief answers to your six questions:
    - A "snapshot" in Git refers to a snapshot of your entire project's state at a specific point in time.
    - Commits in Git are snapshots of your project, capturing the state of all files and directories at the time of the commit.
 
-You can include these question answers in your README in a section explaining Git concepts or as a separate FAQ section.
 
