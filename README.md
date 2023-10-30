@@ -3,6 +3,16 @@
 ## Project Description
 This project involved the analysis of data related to cryptocurrencies sourced from a Telegram channel. Our main goal was to gain a better understanding of various aspects of cryptocurrencies. We utilized Git as a version control tool throughout the project's development. In this project, we made an effort to implement all the commands and instructional steps provided in the training to enhance our skills.
 
+Key Steps:
+
+Data Collection: We collected a vast amount of data from a Telegram channel that actively discusses various cryptocurrencies.
+
+Data Preparation: The collected data required cleaning, formatting, and preprocessing to make it suitable for analysis.
+
+Sentiment Analysis: Using natural language processing (NLP) techniques and machine learning, we performed sentiment analysis on the dataset to gauge public sentiment about different cryptocurrencies.
+
+Visualization: We used various data visualization tools to present our findings effectively, allowing for a clear and comprehensive view of the sentiment trends.
+
 ## Version Control with Git
 We employed Git as a version control tool for managing the project's source code. Git allowed us to easily track changes in the project and leverage the benefits of version control.
 
